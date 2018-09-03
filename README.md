@@ -1,6 +1,12 @@
 # YaAnaliticsBudget
 Скрипт на сервер работающий с WSGI для прогноза бюджета в Яндекс Директе
 
+Для работы с таблицами необходимо полуить google_client_secret:
+
+* Алгоритм получения описан здесь (ttps://developers.google.com/sheets/api/quickstart/python)
+* Переименовываем полученый credentials в google_client_secret
+* Запихиваем в папку YaAnaliticsBudget\secrets
+
 **Пример формы**
 
 ![](https://github.com/PAvel00m/YaAnaliticsBudget/blob/master/1.png)
