@@ -7,6 +7,13 @@
 * Переименовываем полученый credentials в google_client_secret
 * Запихиваем в папку YaAnaliticsBudget\secrets
 
+Файл конфигурация находится YaAnaliticsBudget\secrets\config.ini
+* строка 1 логин Яндекс Директа
+* строка 2 пароль Яндекс Директа
+* строка 3 id антикапчи
+
+**Примечание: При работе Яндекс Директ выдает капчу, для ее решения необходимо иметь аккаунт на ![антикапче](https://anti-captcha.com/mainpage)**
+
 **Пример формы**
 
 ![](https://github.com/PAvel00m/YaAnaliticsBudget/blob/master/1.png)
