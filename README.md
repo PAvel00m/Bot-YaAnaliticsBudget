@@ -3,7 +3,7 @@
 
 Пример формы
 
-![](https://github.com/PAvel00m/YaAnaliticsBudget/edit/master/1.png)
+![](https://github.com/PAvel00m/YaAnaliticsBudget/blob/master/1.png)
  
 Столбец А – ключевые фразы каждая с новой строки
 Столбец B – регионы каждый с новой строки (доступны: россия, москва и область, спб и область)
