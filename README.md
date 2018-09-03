@@ -3,7 +3,7 @@
 
 Для работы с таблицами необходимо полуить google_client_secret:
 
-* Алгоритм получения описан здесь (ttps://developers.google.com/sheets/api/quickstart/python)
+* Алгоритм получения описан здесь (https://developers.google.com/sheets/api/quickstart/python)
 * Переименовываем полученый credentials в google_client_secret
 * Запихиваем в папку YaAnaliticsBudget\secrets
 
