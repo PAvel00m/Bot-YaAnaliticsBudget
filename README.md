@@ -1,7 +1,7 @@
 # YaAnaliticsBudget
 Скрипт на сервер работающий с WSGI для прогноза бюджета в Яндекс Директе
 
-Пример формы
+**Пример формы**
 
 ![](https://github.com/PAvel00m/YaAnaliticsBudget/blob/master/1.png)
  
