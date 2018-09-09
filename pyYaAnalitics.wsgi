@@ -1,8 +1,8 @@
 import sys, os
 import urllib.parse 
 
-imp1 = '/home/pech.zolle.ru/web/pech.zolle.ru/public_html/py/site-packages'
-imp2 = '/home/pech.zolle.ru/web/pech.zolle.ru/public_html/py/scripts/YaAnaliticsBudget'
+imp1 = os.path.dirname(os.path.abspath(__file__)) + '/site-packages'
+imp2 = os.path.dirname(os.path.abspath(__file__)) + '/scripts/YaAnaliticsBudget'
 
 if imp1 not in sys.path:
     sys.path.append(imp1)
