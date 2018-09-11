@@ -67,7 +67,7 @@ def main(GoogleTabID):
             # если после выполнения вернулась ошибка
             if len(error_) == 0:
                 # получаем список id регионов
-                regions_id, = GetRegion_ID(DataForForecast[1], warning_)
+                regions_id = GetRegion_ID(DataForForecast[1], warning_)
                 # создаем объект класс
                 MyForecast = YaForecast.Forecast(DataForForecast[0], regions_id, dataConf[0], dataConf[1], dataConf[2])
                 # авторизуемся в директе
